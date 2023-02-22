@@ -1,2 +1,2 @@
 # Chapter1-2
-Data Type, Array, Method (Map, Filter)
+Learning Data Type, Array, Method (Map, Filter) using JS
